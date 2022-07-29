@@ -8,3 +8,4 @@ The app can help user to Add task, filter task, mark the task as done and delete
 I used HTML, CSS and JavaScript language to beld the app. 
 
 
+
