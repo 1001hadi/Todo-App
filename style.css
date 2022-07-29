@@ -1,0 +1,45 @@
+body {
+    background-color: #777;
+    padding-top: 30px;
+}
+
+.container {
+    
+    max-width: 400px;
+    max-height: 100%;
+    text-align: center;
+    margin: auto;
+    border: 3px solid teal;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+#search {
+    padding: 5px;
+}
+.input:hover {
+    border: 5px solid teal;
+    
+}
+
+#todos .list{
+    margin-right: 40px;
+    padding: 5px;
+    border: 1px solid #555;
+    border-radius: 5px;
+    display: grid;
+    grid-template-columns: 20px 4fr 20px;
+ 
+}
+
+ul li {
+    text-align: center;
+    list-style: none;
+}
+
+.filtered {
+    display: none !important;
+}
