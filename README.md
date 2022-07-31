@@ -9,3 +9,4 @@ I used HTML, CSS and JavaScript language to beld the app.
 
 
 
+![todo app](https://user-images.githubusercontent.com/62669085/182033046-75467da2-ef31-464f-a44b-8778829c82bd.png)
