@@ -13,7 +13,6 @@ addTodos.addEventListener("submit", e => {
       todoGenerator(todo);
       addTodos.reset();  
     }
-
 });
 
 
